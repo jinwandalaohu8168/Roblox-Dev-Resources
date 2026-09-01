@@ -7,3 +7,8 @@
 
 * [Flayo](https://flayodev.com/)
   Free Roblox development tools, models, and useful resources for creators and developers.
+
+## YouTube Channels
+
+- [Kekuzav](https://www.youtube.com/@Kekuzav)  
+  Roblox creator sharing UI, VFX, design resources, tutorials, and useful assets for developers.
