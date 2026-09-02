@@ -20,6 +20,9 @@
 
 ## GitHub Resources
 
+- [Anything About Game](https://github.com/killop/anything_about_game)  
+  A curated collection of game development resources, covering game engines, graphics, shaders, physics, ECS, math, AI, assets, tools, and learning materials.
+
 - [Design Resources for Developers](https://github.com/bradtraversy/design-resources-for-developers)  
   A curated collection of design and UI resources, including stock photos, templates, UI libraries, CSS frameworks, icons, fonts, and developer tools.
 
@@ -44,5 +47,17 @@
 
 ## Tools & Services
 
+- [RoMonitor Stats](https://romonitorstats.com/)  
+  A Roblox analytics and tracking platform for monitoring experience statistics, player counts, milestones, rankings, name changes, and other game performance data.
+  
 - [Barrier Four](https://barrierfour.us/)  
   A Roblox-native animation studio specializing in character animation, game trailers, gameplay capture, and branded content for Roblox experiences.
+
+- [GameAnalytics Tools](https://tool.gameanalytics.com/)  
+  A collection of free tools for game developers, including calculators and utilities for analytics, retention, monetization, and game performance.
+
+- [VizzBees](https://vizzbees.com/)  
+  An AI-powered thumbnail generator for Roblox creators, designed to quickly create game thumbnails, icons, and promotional artwork.
+
+- [Meshy](https://www.meshy.ai/)  
+  An AI-powered 3D creation tool for generating game-ready models from text or images, with texturing, rigging, animation, and export support.
