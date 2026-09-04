@@ -1,85 +1,100 @@
-# Forge & Fantasy - Weapon SFX
+# Forge & Fantasy - 奇幻武器战斗音效包
 
 ![Forge & Fantasy - Weapon SFX](./Icon.png)
 
-A high-quality fantasy weapon and combat sound effects pack designed for game development, animation, video, and interactive projects.
+一套高质量的奇幻 / RPG 武器与战斗音效资源，适用于游戏开发、动画、视频以及各类互动项目。
 
-## Audio Preview
+## 试听
 
-[Listen to the Weapon SFX Preview](./Forge%20%26%20Fantasy%20-%20Weapon%20SFX%20%28250%2B%20Sounds%29%20by%20Case%20Portman.wav)
+[点击试听 Weapon SFX Preview](./Preview.wav)
 
-## Overview
+## 价格
 
-- 250+ weapon and combat sound effects
-- WAV and OGG formats
-- 24-bit / 48 kHz audio quality
-- Multiple variations for many sounds
-- Suitable for Roblox Studio, Unity, Unreal Engine, Godot, GameMaker, and other game engines
+**9.9 元**
 
-## Included Sounds
+## 资源介绍
 
-### Weapons
+- 250+ 个武器与战斗类音效
+- 提供 WAV / OGG 格式
+- 24-bit / 48 kHz 高质量音频
+- 多数音效包含多个不同变化版本
+- 适用于 Roblox Studio、Unity、Unreal Engine、Godot、GameMaker 等游戏引擎
 
-- Long Sword
-- Short Sword
-- Katana
-- Dagger
-- Axe
-- Club
-- Chained Mace
-- Spear
-- Lance
-- Bow
-- Crossbow
-- Slingshot
-- Throwing Knife
-- Shuriken
-- Boomerang
-- Whip
-- Chain Whip
-- Fist Swing
-- Torch Swing
+## 音效内容
 
-### Combat Impacts
+### 武器类
 
-- Light Impact
-- Strong Impact
-- Powerful Impact
-- Dull Impact
-- Body Impact
-- Heavy / Juicy Impact
-- Arrow Hit Wood
-- Arrow Hit Metal
+- 长剑
+- 短剑
+- 武士刀
+- 匕首
+- 战斧
+- 棍棒
+- 链锤
+- 长矛
+- 骑枪
+- 弓
+- 十字弩
+- 弹弓
+- 飞刀
+- 手里剑
+- 回旋镖
+- 鞭子
+- 链鞭
+- 拳击挥动
+- 火把挥动
 
-### Other Sounds
+### 战斗命中类
 
-- Weapon Unsheathe
-- Weapon Sheathe
-- Anvil Strikes
-- Weapon Collisions
-- Weapon Swing Variations
+- 轻型命中
+- 强力命中
+- 重型命中
+- 钝击
+- 肉体命中
+- 厚重 / 爽感打击
+- 箭矢击中木材
+- 箭矢击中金属
 
-## Recommended Uses
+### 其他音效
 
-Suitable for:
+- 武器拔出
+- 武器收回
+- 铁砧敲击
+- 武器碰撞
+- 多种武器挥动变化
+
+## 适合制作
+
+适用于：
 
 - RPG / ARPG
-- Action Games
-- Adventure Games
-- Dungeon Games
-- Survival Games
-- Tower Defense Games
-- Fighting Games
-- Roblox Games
-- Indie Games
+- 动作游戏
+- 冒险游戏
+- 地牢游戏
+- 生存游戏
+- 塔防游戏
+- 格斗游戏
+- Roblox 游戏
+- 独立游戏
 
-Common uses include weapon attacks, critical hits, skills, enemy hit reactions, boss battles, projectile attacks, weapon switching, and combat VFX sound design.
+常见用途包括：
 
-## Audio Specifications
+- 武器攻击
+- 普通攻击
+- 暴击
+- 技能攻击
+- 怪物受击
+- Boss 战斗
+- 投射物攻击
+- 武器切换
+- 战斗特效配音
 
-| Item | Details |
+## 音频规格
+
+| 项目 | 规格 |
 |---|---|
-| Sound Effects | 250+ |
-| Formats | WAV / OGG |
-| Quality | 24-bit / 48 kHz |
-| Category | Fantasy / RPG / Combat / Weapons |
+| 音效数量 | 250+ |
+| 格式 | WAV / OGG |
+| 音质 | 24-bit / 48 kHz |
+| 类型 | 奇幻 / RPG / 战斗 / 武器 |
+| 价格 | 9.9 元 |
