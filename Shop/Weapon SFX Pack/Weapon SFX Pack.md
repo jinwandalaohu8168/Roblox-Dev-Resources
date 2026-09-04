@@ -1,6 +1,6 @@
 # Forge & Fantasy - Weapon SFX
 
-![Forge & Fantasy - Weapon SFX](./Icon_1.png)
+![Forge & Fantasy - Weapon SFX](./Icon.png)
 
 A high-quality fantasy weapon and combat sound effects pack designed for game development, animation, video, and interactive projects.
 
@@ -83,9 +83,3 @@ Common uses include weapon attacks, critical hits, skills, enemy hit reactions, 
 | Formats | WAV / OGG |
 | Quality | 24-bit / 48 kHz |
 | Category | Fantasy / RPG / Combat / Weapons |
-
-## Original Resource
-
-[Forge & Fantasy - Weapon SFX](https://caseportman.itch.io/forge-fantasy-weapon-sfx)
-
-Created by **Case Portman**.
