@@ -20,6 +20,9 @@
 
 ## GitHub Resources
 
+- [Roblox Brain](https://github.com/TabooHarmony/roblox-brain)  
+  A curated collection of AI agent skills for Roblox Studio development, supporting tools like Codex, Claude Code, Cursor, and OpenCode.
+
 - [Anything About Game](https://github.com/killop/anything_about_game)  
   A curated collection of game development resources, covering game engines, graphics, shaders, physics, ECS, math, AI, assets, tools, and learning materials.
 
@@ -46,6 +49,9 @@
   Roblox creator sharing UI, VFX, design resources, tutorials, and useful assets for developers.
 
 ## Tools & Services
+
+- [Figma](https://www.figma.com/)
+  A collaborative UI/UX design and prototyping tool for creating game interfaces, websites, apps, design systems, and interactive prototypes.
 
 - [RoMonitor Stats](https://romonitorstats.com/)  
   A Roblox analytics and tracking platform for monitoring experience statistics, player counts, milestones, rankings, name changes, and other game performance data.
